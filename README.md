@@ -7,7 +7,7 @@ Reddit Fun and Games Hackathon entry, UGC Category
 
 Last updated: September 2025
 
-Bizniz Quest (under the app "bizniz-quest-ask") is a networking mini-game hosted at r/BiznizQuest (https://www.reddit.com/r/BiznizQuest).
+Bizniz Quest (with the app "bizniz-quest-ask") is a networking mini-game hosted at r/BiznizQuest (https://www.reddit.com/r/BiznizQuest).
 It was created by u/bitpixi, and the intellectual property is owned by Hackeroos Pty Ltd (ABN 48 686 677 163), her company in Australia.
 
 By participating, you agree to the following terms in addition to Reddit’s Terms of Service (https://www.redditinc.com/policies/user-agreement) and Reddit’s Content Policy (https://www.redditinc.com/policies/content-policy).
